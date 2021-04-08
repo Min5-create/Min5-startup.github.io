@@ -1,0 +1,28 @@
+body,
+
+html {
+	height: 100%;
+	width: 100%;
+	font-family: 'Ubuntu', sans-serif;
+	background: url(landing.jpeg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+h1 {
+	color: yellow;
+	font-size: 1.5em;
+}
+
+.button {
+	font-weight: 70;
+	font-size: 1.2rem;
+	border-radius: 300px;
+	transition: 1.5 1s;
+}
+
+.buffer {
+	height: 30px;
+}
